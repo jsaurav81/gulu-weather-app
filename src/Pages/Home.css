@@ -1,0 +1,18 @@
+td, #datatable {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+.weather {
+    margin: 10px
+}
+.home {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.search {
+margin-top: 5px;
+margin-bottom: 20px;
+}
